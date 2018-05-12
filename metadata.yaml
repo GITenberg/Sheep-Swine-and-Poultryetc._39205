@@ -1,0 +1,31 @@
+_repo: Sheep-Swine-and-Poultryetc._39205
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jennings, Robert
+    birthdate: 1824
+    deathdate: 1893
+    gutenberg_agent_id: '25531'
+    url: http://www.gutenberg.org/2009/agents/25531
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2012-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39205'
+  lccn: '12023283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swine'
+- !lcc 'SF'
+- !lcsh 'Poultry'
+- !lcsh 'Sheep'
+title: "Sheep, Swine, and Poultry\r\nEmbracing the History and Varieties of Each;\
+  \ The Best Modes of Breeding; Their Feeding and Management; Together with etc."
+url: http://www.gutenberg.org/ebooks/39205
